@@ -1,0 +1,6 @@
+.idea/*
+.vscode/*
+allure-results
+target
+reports/*
+credentials.properties
